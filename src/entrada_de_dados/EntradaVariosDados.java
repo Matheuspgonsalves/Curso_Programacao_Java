@@ -14,5 +14,6 @@ public class EntradaVariosDados {
 		z = sc.nextDouble();
 		
 		System.out.printf("Você digitou: %s, %d e %.2f", x, y, z);
+		sc.close();
 	}
 }

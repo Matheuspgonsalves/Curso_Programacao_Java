@@ -26,6 +26,6 @@ public class Ex05 {
 		System.out.printf("Valor a pagar: R$ %.2f", ( (double)(numeroP1 * valorUnitarioP1)+(numeroP2 * valorUnitarioP2) ));
 		
 		
-		
+		sc.close();
 	}
 }
