@@ -1,4 +1,4 @@
-package lacosDeRepeticao;
+package lacosDeRepeticaoWhile;
 import java.util.Scanner;
 
 public class While {
