@@ -1,4 +1,4 @@
-package lacosDeRepeticaoWhile;
+package Exercicios_while;
 import java.util.Scanner;
 
 public class Ex01 {
